@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(234, 0, 255);
+  width: 100%;
+  height: 100vh;
+}
+body div {
+  width: 80%;
+  height: 90vh;
+  background-color: crimson;
+}
+body div h4 {
+  color: gold;
+}
+body div form {
+  width: 90%;
+  height: 70%;
+  background-color: chartreuse;
+  color: red;
+}
+body div form fieldset {
+  width: 50%;
+  height: 80%;
+  background-color: rgb(255, 255, 0);
+}
+body div form fieldset legend {
+  background-color: pink;
+  color: blue;
+}
+body div form fieldset input[type=text] {
+  width: 80%;
+  height: 40%;
+  margin: 10px;
+}
+body div form fieldset input[type=button] {
+  width: 30%;
+  height: 20%;
+  margin: 10px;
+}/*# sourceMappingURL=style.css.map */
